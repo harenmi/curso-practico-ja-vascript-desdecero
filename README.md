@@ -1,1 +1,1 @@
-# curso-practico-javascript-desdecero
+# curso-practico-ja-vascript-desdecero
